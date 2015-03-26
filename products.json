@@ -1,0 +1,156 @@
+[
+  {
+    "id": 0,
+    "image": "http://angular.github.io/angular-phonecat/step-8/app/img/phones/motorola-xoom-with-wi-fi.0.jpg",
+    "category": "books",
+    "name": "Dell Inspiron 3541 Notebook",
+    "price": 600
+  },
+  {
+    "id": 1,
+    "image": "http://angular.github.io/angular-phonecat/step-8/app/img/phones/motorola-xoom-with-wi-fi.0.jpg",
+    "category": "books",
+    "name": "count of monte cristo",
+    "price": 600
+  },
+  {
+    "id": 2,
+    "image": "http://angular.github.io/angular-phonecat/step-8/app/img/phones/motorola-xoom-with-wi-fi.0.jpg",
+    "category": "electronics",
+    "name": "game of thrones",
+    "price": 299
+  },
+  {
+    "id": 3,
+    "image": "http://img6a.flixcart.com//image/cases-covers/silicone-jelly/r/v/d/amzer-92502-400x400-imad6hwgt8ggdhzh.jpeg",
+    "category": "electronics",
+    "name": "Dell Inspiron 3541 Notebook",
+    "price": 600
+  },
+  {
+    "id": 4,
+    "image": "http://img5a.flixcart.com/image/t-shirt/u/b/7/fc-13-1224combo-2-crocodile-m-275x340-imadzj8nbxzw59wk.jpeg",
+    "category": "clothes",
+    "name": "count of monte cristo",
+    "price": 600
+  },
+  {
+    "id": 5,
+    "image": "http://img6a.flixcart.com/image/computer/z/k/e/dell-inspirion-notebook-400x400-imaeye2tapdz97nh.jpeg",
+    "category": "clothes",
+    "name": "Dell Inspiron 3541 Notebook",
+    "price": 299
+  },
+  {
+    "id": 6,
+    "image": "http://angular.github.io/angular-phonecat/step-8/app/img/phones/motorola-xoom-with-wi-fi.0.jpg",
+    "category": "books",
+    "name": "Dell Inspiron 3541 Notebook",
+    "price": 54000
+  },
+  {
+    "id": 7,
+    "image": "http://img5a.flixcart.com/image/t-shirt/u/b/7/fc-13-1224combo-2-crocodile-m-275x340-imadzj8nbxzw59wk.jpeg",
+    "category": "clothes",
+    "name": "game of thrones",
+    "price": 299
+  },
+  {
+    "id": 8,
+    "image": "http://img6a.flixcart.com//image/cases-covers/silicone-jelly/r/v/d/amzer-92502-400x400-imad6hwgt8ggdhzh.jpeg",
+    "category": "clothes",
+    "name": "Dell Inspiron 3541 Notebook",
+    "price": 600
+  },
+  {
+    "id": 9,
+    "image": "http://img5a.flixcart.com/image/t-shirt/u/b/7/fc-13-1224combo-2-crocodile-m-275x340-imadzj8nbxzw59wk.jpeg",
+    "category": "electronics",
+    "name": "count of monte cristo",
+    "price": 500
+  },
+  {
+    "id": 10,
+    "image": "http://img5a.flixcart.com/image/t-shirt/u/b/7/fc-13-1224combo-2-crocodile-m-275x340-imadzj8nbxzw59wk.jpeg",
+    "category": "clothes",
+    "name": "game of thrones",
+    "price": 299
+  },
+  {
+    "id": 11,
+    "image": "http://img6a.flixcart.com//image/cases-covers/silicone-jelly/r/v/d/amzer-92502-400x400-imad6hwgt8ggdhzh.jpeg",
+    "category": "books",
+    "name": "game of thrones",
+    "price": 600
+  },
+  {
+    "id": 12,
+    "image": "http://img6a.flixcart.com//image/cases-covers/silicone-jelly/r/v/d/amzer-92502-400x400-imad6hwgt8ggdhzh.jpeg",
+    "category": "electronics",
+    "name": "count of monte cristo",
+    "price": 600
+  },
+  {
+    "id": 13,
+    "image": "http://angular.github.io/angular-phonecat/step-8/app/img/phones/motorola-xoom-with-wi-fi.0.jpg",
+    "category": "books",
+    "name": "Dell Inspiron 3541 Notebook",
+    "price": 500
+  },
+  {
+    "id": 14,
+    "image": "http://img5a.flixcart.com/image/t-shirt/u/b/7/fc-13-1224combo-2-crocodile-m-275x340-imadzj8nbxzw59wk.jpeg",
+    "category": "clothes",
+    "name": "game of thrones",
+    "price": 500
+  },
+  {
+    "id": 15,
+    "image": "http://angular.github.io/angular-phonecat/step-8/app/img/phones/motorola-xoom-with-wi-fi.0.jpg",
+    "category": "clothes",
+    "name": "Dell Inspiron 3541 Notebook",
+    "price": 54000
+  },
+  {
+    "id": 16,
+    "image": "http://img5a.flixcart.com/image/t-shirt/u/b/7/fc-13-1224combo-2-crocodile-m-275x340-imadzj8nbxzw59wk.jpeg",
+    "category": "books",
+    "name": "count of monte cristo",
+    "price": 600
+  },
+  {
+    "id": 17,
+    "image": "http://img5a.flixcart.com/image/t-shirt/u/b/7/fc-13-1224combo-2-crocodile-m-275x340-imadzj8nbxzw59wk.jpeg",
+    "category": "clothes",
+    "name": "game of thrones",
+    "price": 54000
+  },
+  {
+    "id": 18,
+    "image": "http://img6a.flixcart.com/image/computer/z/k/e/dell-inspirion-notebook-400x400-imaeye2tapdz97nh.jpeg",
+    "category": "electronics",
+    "name": "Dell Inspiron 3541 Notebook",
+    "price": 500
+  },
+  {
+    "id": 19,
+    "image": "http://img6a.flixcart.com/image/computer/z/k/e/dell-inspirion-notebook-400x400-imaeye2tapdz97nh.jpeg",
+    "category": "books",
+    "name": "Dell Inspiron 3541 Notebook",
+    "price": 299
+  },
+  {
+    "id": 20,
+    "image": "http://img6a.flixcart.com/image/computer/z/k/e/dell-inspirion-notebook-400x400-imaeye2tapdz97nh.jpeg",
+    "category": "electronics",
+    "name": "Dell Inspiron 3541 Notebook",
+    "price": 500
+  },
+  {
+    "id": 21,
+    "image": "http://img5a.flixcart.com/image/t-shirt/u/b/7/fc-13-1224combo-2-crocodile-m-275x340-imadzj8nbxzw59wk.jpeg",
+    "category": "clothes",
+    "name": "count of monte cristo",
+    "price": 299
+  }
+]

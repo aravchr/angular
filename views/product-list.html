@@ -1,0 +1,36 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <!--Body content-->
+      <div>
+        Search: <input ng-model="search.name"/>
+        Sort by Price : 
+        <select ng-model="orderProp" ng-init="orderProp='price'">
+          <option value="price">Ascending</option>
+          <option value="-price">Descending</option>
+        </select>
+      </div>
+      <ul class="products">
+        <li ng-repeat="product in products | filter:search | orderBy:orderProp " class="thumbnail">
+          <img ng-src="{{product.image}}">
+          <p>{{product.name}}</p>
+          <p>{{product.category}}</p>
+          <p>{{product.price}}</p>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</div>
+
+
+<!-- <div class="col-md-2">
+
+      Search: <input ng-model="query">
+      Sort by:
+      <select ng-model="orderProp">
+        <option value="name">Alphabetical</option>
+        <option value="age">Newest</option>
+      </select>
+
+    </div> -->
