@@ -1,6 +1,6 @@
 <div class="container">
   <div class="row">
-    <div class="col-md-12">
+    <div class="col-md-10" >
       <!--Body content-->
       <div>
         Search: <input ng-model="search.name"/>
@@ -9,9 +9,31 @@
           <option value="price">Ascending</option>
           <option value="-price">Descending</option>
         </select>
+        
+        <button>Cart<span ng-show="cartCount"> : {{cartCount}}</span></button>
+        
       </div>
       <ul class="products">
         <li ng-repeat="product in products | filter:search | orderBy:orderProp " class="thumbnail">
+          <img ng-src="{{product.image}}">
+          <p>{{product.name}}</p>
+          <p>{{product.category}}</p>
+          <p>{{product.price}}</p>
+          <button ng-click="addToCart(product)">Add To Cart</button>
+        </li>
+      </ul>
+
+    </div>
+
+    <div class="col-md-2" ng-show="cartCount">
+      <!--Body content-->
+      <div>
+        <button>Items in the Cart<span> : {{cartCount}}</span></button>
+        
+      </div>
+      <ul class="products">
+        <li ng-repeat="product in cartItems" class="thumbnail">
+          <button ng-click="removeFromCart(product.cartId)">Remove</button>
           <img ng-src="{{product.image}}">
           <p>{{product.name}}</p>
           <p>{{product.category}}</p>
@@ -22,6 +44,8 @@
     </div>
   </div>
 </div>
+
+
 
 
 <!-- <div class="col-md-2">
